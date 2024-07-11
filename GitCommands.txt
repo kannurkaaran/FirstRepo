@@ -1,0 +1,9 @@
+git --version
+git config --global user.name "Subhod Kakkadan"
+git config --global user.email kannurkaaran@gmail.com
+git config --list
+to create a folder as master --> git init
+git add filename or git add .
+git commit -m "This is my first commit"
+git log
+git status
